@@ -14,7 +14,20 @@ Créer une plateforme web permettant aux ingénieurs en génie civil, architecte
 - Passionnés de modélisation 3D
 
 ---
-
+**Ajout des besoins non fonctionnels **
+Performance : Chargement et rendu optimisé des fichiers DXF volumineux.
+Accessibilité : Interface adaptée aux normes WCAG, navigation intuitive.
+Sécurité : Protection des fichiers téléversés, authentification robuste, gestion des permissions.
+Compatibilité : Prise en charge des principaux navigateurs et appareils (desktop, mobile).
+** Maquettes et charte graphique **
+Outil recommandé : Figma .
+Style : Moderne et épuré, avec une palette neutre et des contrastes adaptés.
+Expérience utilisateur : Interface fluide avec animations légères et transitions douces.
+** Technologies Backend et Base de Données **
+Backend : PHP (Laravel) ou Node.js (Express).
+Base de données : PostgreSQL (relationnel) ou MongoDB (NoSQL pour flexibilité).
+Stockage des fichiers : S3 (AWS) ou stockage local sécurisé.
+Authentification : JWT ou OAuth pour une connexion sécurisée
 ## 2. Fonctionnalités Principales
 
 ### 2.1. Visualisation de Fichiers DXF en 3D
