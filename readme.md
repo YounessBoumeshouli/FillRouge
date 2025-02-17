@@ -35,7 +35,7 @@ Créer une plateforme web permettant aux ingénieurs en génie civil, architecte
 ## 4. Technologies Backend et Base de Données
 
 - **Backend :**  
-  - PHP (Laravel) ou Node.js (Express)
+  - PHP (Laravel) 
   
 - **Base de données :**  
   - PostgreSQL (relationnel) ou MongoDB (NoSQL pour flexibilité)
